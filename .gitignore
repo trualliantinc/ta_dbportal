@@ -1,0 +1,21 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Dependencies
+/vendor/
+
+# Composer artifacts
+composer.phar
+
+# Env / Secrets
+.env
+.env.*
+credentials.json
+
+# Logs & caches
+*.log
+cache/
+tmp/
